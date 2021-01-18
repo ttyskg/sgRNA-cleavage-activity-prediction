@@ -1,0 +1,11 @@
+version: '3.2'
+
+services: 
+  ppi_dropsynth:
+    image: sgRNA-cleavage-activity-prediction:1.0
+    build: .
+    container_name: 'sgRNA-cleavage-activity-prediction'
+    stdin_open: true
+    working_dir: '/tmp/work'
+    volumes:
+      - ../:/tmp/work

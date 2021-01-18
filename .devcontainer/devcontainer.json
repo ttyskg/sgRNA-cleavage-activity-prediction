@@ -1,0 +1,9 @@
+{
+    "name": "sgRNA-cleavage-activity-prediction",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "sgRNA-cleavage-activity-prediction",
+    "workspaceFolder": "/tmp/work",
+    "extensions": [
+        "ms-python.python"
+    ]
+}

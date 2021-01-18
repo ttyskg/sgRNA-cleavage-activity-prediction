@@ -1,0 +1,5 @@
+biopython == 1.66
+matplotlib == 2.0.2
+numpy == 1.13.1
+pandas == 0.18.1
+scikit-learn == 0.19.0
