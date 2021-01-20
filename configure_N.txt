@@ -1,5 +1,5 @@
 [configdesign]
 targetFasta:spacers_for_N-labeling_salmonella.fasta
 model:Cas9
-normalization:Yes
+normalization:No
 prefix:salmonella_N
